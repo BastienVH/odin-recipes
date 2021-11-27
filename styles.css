@@ -11,6 +11,16 @@ h1 {
   text-align: center;
 }
 
+.recipes-list {
+  font-weight: bold;
+  font-size: 28px;
+  padding-left: 30%;
+}
+
+a {
+  font-family: "Courier New", Courier, monospace;
+}
+
 img {
   height: 300px;
   width: auto;
